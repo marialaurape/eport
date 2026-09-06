@@ -2,13 +2,13 @@
 
 Welcome to my academic e-Portfolio for the MSc Cyber Security programme at the University of Essex Online.
 
-This portfolio documents my development throughout the programme through practical activities, academic discussions, technical artefacts and reflective work.
+This portfolio documents selected learning activities, practical work and reflections completed throughout the programme.
 
 ## Modules
 
 ### Network Security
 
-The Network Security module explored network vulnerabilities, security assessment methodologies, vulnerability scanning, logging, risk management and secure network management.
+This module developed my understanding of network reconnaissance, vulnerability assessment, security reporting, logging and the relationship between technical findings and wider security risk.
 
 [View Network Security Portfolio](modules/network-security/)
 

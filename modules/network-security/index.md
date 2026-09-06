@@ -2,54 +2,41 @@
 
 ## Module Overview
 
-This module explored the principles and practices involved in identifying, assessing and managing security risks within networked environments.
+The Network Security module combined theoretical analysis with practical security assessment. Activities covered digital transformation and cybersecurity, vulnerability research, network reconnaissance and scanning, logging and Log4j, and the communication of vulnerability assessment findings.
 
-The activities combined theoretical analysis with practical security assessment, covering areas including digital enterprise security, vulnerability assessment, network scanning, logging, security reporting and secure network management.
+This page contains the activities and reflections specifically identified during the module as components of the e-Portfolio.
 
-## Learning Outcomes
+## e-Portfolio Activities
 
-Throughout the module, the learning activities developed my ability to:
+### 1. Collaborative Discussion 1 — Digital Enterprise and Cybersecurity
+Discussion of the security implications of digital transformation, particularly for SMEs, followed by peer responses and a summary reflection.
 
-- identify and analyse threats and vulnerabilities in network systems;
-- evaluate methodologies, tools and techniques for security assessment;
-- critically consider security, legal, ethical and professional issues;
-- gather and synthesise security information from multiple sources;
-- evaluate security controls and approaches to risk management;
-- communicate technical security findings effectively.
+[View Collaborative Discussion 1](artefacts/collaborative-discussion-1.md)
 
-## Artefacts
+### 2. Vulnerability Analysis — Literature Review
+Reflection on using software documentation and vulnerability databases to establish a baseline of potential vulnerabilities for Altoro Mutual.
 
-### Collaborative Discussion 1 — Digital Enterprise and Cybersecurity
-Exploration of cybersecurity challenges associated with digital transformation, including the particular challenges faced by SMEs.
+[View Unit 2 Reflection](artefacts/vulnerability-analysis.md)
 
-[View artefact](artefacts/collaborative-discussion-1.md)
+### 3. Scanning Activities
+Reflection on basic reconnaissance using traceroute, DNS queries and WHOIS against Altoro Mutual.
 
-### Vulnerability Analysis
-Literature-based exploration of vulnerability assessment and the role of systematic security analysis.
+[View Unit 3 Reflection](artefacts/scanning-activities.md)
 
-[View artefact](artefacts/vulnerability-analysis.md)
+### 4. Collaborative Discussion 2 — Logging and Log4j
+Discussion of the benefits and risks of security logging and the lessons of the Log4Shell vulnerability, followed by peer responses.
 
-### Practical Vulnerability Scanning
-Practical security assessment activities and reflection on the strengths and limitations of vulnerability scanning techniques.
+[View Collaborative Discussion 2](artefacts/collaborative-discussion-2.md)
 
-[View artefact](artefacts/scanning-activity.md)
+### 5. Scanning and Collaborative Wiki
+Results from service and vulnerability scanning and reflection on the limitations of external fingerprinting and CVE correlation.
 
-### Collaborative Discussion 2 — Logging and Log4j
-Discussion of the security value of logging alongside the risks introduced by vulnerable logging infrastructure, using Log4Shell as a key example.
+[View Unit 4 Activity and Reflection](artefacts/scanning-collaborative-wiki.md)
 
-[View artefact](artefacts/collaborative-discussion-2.md)
+### 6. Reviewing an Assessment Reporting Template
+Review of a vulnerability assessment reporting approach and reflection on how technical findings should be contextualised and prioritised.
 
-### Security Assessment Reporting
-Exploration of how technical security findings can be communicated effectively to different stakeholders.
-
-[View artefact](artefacts/assessment-reporting.md)
-
-## Module Reflection
-[Read Module Reflection](reflection.md)
-
-## Professional Development
-- [Professional Skills Matrix](skills-matrix.md)
-- [Action Plan](action-plan.md)
+[View Unit 5 Reflection](artefacts/assessment-reporting.md)
 
 ---
 
